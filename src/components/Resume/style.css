@@ -1,0 +1,22 @@
+.Resumesection
+{
+  padding: 0 15px;
+}
+.Resumesection H1
+{
+  padding: 29px 0 55px 0;
+  font-weight: 300 !important;
+    line-height: 40px;
+    font-family: "Frank Ruhl Libre", serif;
+
+}
+.resumebutton
+{
+  margin-bottom: 60px;
+    display: flex;
+    align-items: center;
+}
+.wrapperbutton
+{
+text-align:center;
+}

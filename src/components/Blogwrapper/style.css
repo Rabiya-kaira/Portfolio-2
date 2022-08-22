@@ -1,0 +1,67 @@
+.blogwrappersection
+{
+  background: #fff;
+    
+}
+
+
+
+
+.blogimgdiv
+{
+  width:330px;
+  height:180px;
+}
+.blogimgdiv img
+{
+  width:100%;
+  height:100%;
+}
+.postcontent{
+  padding: 50px 15px;
+margin-top: -98px;
+    background: #fff;
+    z-index: 1;
+}
+
+
+.bloglogodiv
+{
+  display:flex;
+  border-bottom: 1px solid #ececec;
+  padding: 10px 0 15px 0;
+}
+.bloglogodiv div
+{
+      padding-left: 40px;
+}
+.blogwrappersection .aboutadmin
+{
+  font-family: "Frank Ruhl Libre", serif;
+  font-size: 1em;
+    color: #696969;
+    
+    line-height: 26px;
+}
+.blogwrappersection .paragraph
+{
+  font-family: "Frank Ruhl Libre", serif;
+  line-height: 26px;
+  font-size: 1em;
+    color: #696969;
+    font-weight: 400;
+}
+.blogwrappersection .contentpart
+{
+  font-size: 1em;
+    color: #696969;
+   padding: 15px 26px 30px 26px;
+}
+.blogwrappersection H3
+{
+  margin: 15px 0;
+}
+.blogwrappersection .button
+{
+  font-weight: 400;
+}

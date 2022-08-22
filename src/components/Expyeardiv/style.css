@@ -1,0 +1,6 @@
+.yeardiv
+{
+padding: 8px 42px;
+background-image: linear-gradient(to right, #fed643, #ff4181);
+clip-path: polygon(9% 0, 41% 0, 41% 100%, 9% 100%, 9% 83%, 5% 47%, 9% 15%);
+}

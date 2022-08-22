@@ -1,0 +1,13 @@
+.Titlediv
+{
+font-size: 16px;
+    padding: 7px 23px 16px 23px;
+    margin-bottom: 15px;
+    color: #fff;
+   
+    font-weight: 400;
+    font-family: "Frank Ruhl Libre", serif;
+    background-image: linear-gradient(to right, #fed643, #ff4181);
+    background-repeat: no-repeat;
+     clip-path: polygon(50% 0%, 100% 0, 100% 83%, 7% 84%, 1% 100%, 0% 60%, 0 0);
+}

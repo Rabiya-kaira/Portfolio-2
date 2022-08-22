@@ -1,0 +1,19 @@
+.contactcarddiv
+{
+  text-align:center;
+}
+.contactcarddiv .title
+{
+  font-weight: 400;
+    font-family: "Frank Ruhl Libre", serif;
+    margin: 15px 0 5px 0;
+    font-size:18px;
+
+}
+.contactcarddiv .subtitle
+{
+  font-weight: 600;
+   font-family: "Frank Ruhl Libre", serif;
+   line-height: 1.5;
+   font-size:18px;
+}

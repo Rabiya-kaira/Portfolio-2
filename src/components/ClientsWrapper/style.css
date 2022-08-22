@@ -1,0 +1,41 @@
+.aboutclients
+{
+  padding: 20px;
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #ececec;
+}
+.clientname
+{
+  margin-left: -50px;
+}
+.clientname h5
+{
+  font-family: "Frank Ruhl Libre", serif;
+  color: #000;
+    line-height: 1.5;
+    font-size: 18px;
+
+}
+.clientname h6
+{
+  font-weight: 400;
+    font-family: "Roboto", sans-serif;
+    color: #000;
+    line-height: 1.5;
+    font-size: 16px;
+
+}
+.clientswrapper
+{
+  font-size: 1em;
+    color: #696969;
+    font-family: "Roboto", sans-serif;
+    line-height: 26px;
+    font-weight: 400;
+}
+.paragraphdiv
+{
+  padding:20px;
+}

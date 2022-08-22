@@ -1,0 +1,25 @@
+.app-primary-button {
+    margin-top: 30px;
+    padding: 13px 28px;
+    border: 0;
+    outline: none;
+    color: white;
+    box-shadow: rgb(0 0 0 / 10%) 0px 1px 2px 1px;
+    transition: all 0.3s ease 0s;
+    background-image: linear-gradient(
+      to left,
+      rgb(254, 214, 67),
+      rgb(255, 65, 129)
+    );
+  }
+  .app-primary-button img {
+    margin-left: 20px;
+  }
+  .app-primary-button:hover {
+    background-image: linear-gradient(
+      to right,
+      rgb(254, 214, 67),
+      rgb(255, 65, 129)
+    );
+  }
+  

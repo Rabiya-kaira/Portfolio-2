@@ -1,0 +1,74 @@
+.pricingwrapperdiv
+{
+  padding:40px;
+  border-radius: 8px;
+    background: #fff;
+    box-shadow: 0px 3px 15px 0px rgb(0 0 0 / 10%);
+}
+
+.pricingwrapperdiv .H3
+{
+  color: #000;
+    line-height: 1.5;
+    font-family: "Frank Ruhl Libre", serif;
+    /* font-size: 20px; */
+}
+.pricingwrapperdiv h4
+{
+  color: #696969;
+    font-family: "Roboto", sans-serif;
+    line-height: 26px;
+    font-size: 1em;
+    font-weight: 400;
+}
+.pricingwrapperdiv h5
+{
+  font-weight: 400;
+    font-family: "Frank Ruhl Libre", serif;
+    color: #000;
+    line-height: 1.5;
+    font-size: 18px;
+    text-transform: capitalize;
+
+}
+.pricingwrapperdiv .redh3{
+  font-size: 42px;
+    line-height: 46px;
+    color: #ff4181;
+    margin: 0;
+    font-weight: 700;
+}
+.pricingwrapperdiv span
+{
+  font-size: 16px;
+    color: #696969;
+    font-weight: 400;
+
+}
+.pricingwrapperdiv p
+{
+  font-size: 1em;
+    color: #696969;
+    font-family: "Roboto", sans-serif;
+    line-height: 26px;
+    margin-bottom: 20px;
+}
+.pricingwrapperdiv ul li
+{
+  color: #696969;
+    font-family: "Roboto", sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    list-style-type:none;
+    margin-bottom: 10px;
+}
+.pricingwrapperdiv .button
+{
+  text-align:center;
+  font-size: 15px;
+}
+.buttondiv
+{
+  display: flex;
+    justify-content: center;
+}

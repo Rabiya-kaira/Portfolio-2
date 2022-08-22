@@ -1,0 +1,33 @@
+.servicedivtext
+{
+  padding: 40px 28px;
+  color: #fff;
+}
+
+.servicedivtext h4
+{
+ margin: 10px 0 20px 0;
+ font-family: "Roboto", sans-serif;
+    line-height: 26px;
+}
+
+.servicedivtext H3
+{
+  line-height: 1.5;
+    font-family: "Frank Ruhl Libre", serif;
+   
+}
+.servicedivtext ul li
+{
+  list-style-type:disc;
+    font-size: 1rem; 
+     font-family: "Roboto", sans-serif;
+    /* font-weight: 400; */
+    margin-bottom: 5px;
+    margin-left:17px;
+    list-style-type:circle;
+}
+.servicewrapper wrapperimg
+{
+  padding-top: 10px;
+}

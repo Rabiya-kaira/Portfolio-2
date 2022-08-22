@@ -1,0 +1,16 @@
+.clientssection {
+    padding: 50px 20px;
+  }
+  .clientssection H1
+  {
+    margin: 23px 0 30px 0;
+    font-weight: 300 !important;
+      line-height: 40px;
+      font-family: "Frank Ruhl Libre", serif;
+  
+  }
+  .clientssection H1 span
+  {
+    color: #ff4181;
+      font-weight: 700;
+  }

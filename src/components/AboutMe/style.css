@@ -1,0 +1,131 @@
+.contactsection
+{
+  padding: 55px 0;
+}
+.contactcard2
+{
+   margin: 55px 0;
+}
+.portfolio{
+  padding:60px 15px;
+}
+.portfolioimgdiv
+{
+  margin:15px 0 60px 0;
+}
+
+.portfolioimg
+{
+  width:100%;
+  height:100%;
+ object-fit: cover;
+}
+.portfolio H3
+{
+  line-height: 1.5;
+    font-family: "Frank Ruhl Libre", serif;
+}
+.portfolio H1
+{
+  font-weight: 300;
+    margin-bottom: 15px;
+    line-height: 40px;
+    font-family: "Frank Ruhl Libre", serif;
+    margin: 18px 0;
+
+}
+.portfolio H4
+{
+  margin: 0 0 1.5em;
+    padding: 0;
+    font-size: 1em;
+    color: #696969;
+    font-family: "Roboto", sans-serif;
+    line-height: 26px;
+}
+
+.detaildiv li{
+list-style:none;
+font-size: 16px;
+    margin-bottom: 0;
+    font-family: "Frank Ruhl Libre", serif;
+    padding-top: 10px;
+}
+.detaildiv li span
+{
+  font-weight: 700;
+    color: #000;
+    transform: translateY(-50%);
+    font-size: 16px;
+}
+
+.resumebutton{
+ display: flex;
+    align-items: center;
+}
+
+.resumebuttontext
+{
+  text-transform: capitalize;
+    font-weight: 400;
+    font-size: 16px;
+    text-decoration: none;
+    font-family: "Frank Ruhl Libre", serif;
+}
+.sliderdiv
+{
+   animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+/*@keyframes example {
+  0%   {slideArr[0] ,}
+  25%  {slideArr[1]}
+  50%  {slideArr[2]}
+  75%  {slideArr[3]}
+  100% {slideArr[4]}
+}*/
+
+
+
+@media(min-width:576px)
+{
+  .contactsection
+  {
+padding: 0 80px;
+  }
+  .contactcard1{
+    text-align:start;
+  }
+   .contactcard2{
+    margin-left:170px;
+    margin-top:-145px;
+  }
+  .contactcard3{
+    text-align:start;
+  }
+}
+@media(min-width:768px)
+{
+   .contactcard1{
+    text-align:center;
+  }
+   .contactcard2{
+    text-align:center;
+    margin-left:0;
+    margin-top:0;
+    margin-top:50px
+  }
+  .contactcard3{
+    text-align:center;
+  }
+  @media(min-width:1000px)
+  {
+    .contactsection{
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+    }
+  }
+
+}

@@ -1,0 +1,18 @@
+.blogsection{
+    padding: 50px 15px 10px 15px;
+  }
+  
+  
+  .blogsection H1
+  {
+    margin: 21px 0 40px 0;
+    font-weight: 300 !important;
+      line-height: 40px;
+      font-family: "Frank Ruhl Libre", serif;
+  font-size: 30px;
+  }
+  .blogsection H1 span
+  {
+    color: #ff4181;
+      font-weight: 700;
+  }

@@ -1,0 +1,32 @@
+.wrapperdiv{
+    padding:15px;
+    border-radius: 1px;
+        background: #fff;
+        box-shadow: 0px 3px 10px 0px rgb(0 0 0 / 10%);
+        margin-bottom: 30px
+    }
+    .wrapperdivchild
+    {
+      display: flex;
+        justify-content: space-between;
+        align-items: center;
+    
+    }
+    .wrapperdivchild h5
+    {
+      line-height: 1.5;
+        font-family: "Frank Ruhl Libre", serif;
+    }
+    .wrapperdiv h3
+    {
+    line-height: 1.5;
+        font-family: "Frank Ruhl Libre", serif;
+        padding: 10px 0 15px 0;
+    }
+    .wrapperdiv h4
+    {
+      font-size: 1em;
+        color: #696969;
+        font-family: "Roboto", sans-serif;
+    }
+     
